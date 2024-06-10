@@ -1,3 +1,5 @@
+**_NOTE:_**  For B7-RC1 (release candidate) and newer, it is highly recommended to use the new D12 backend instead of NVFBC!
+
 # NvFBC-Unlock for LG
 
 In your Windows Guest:
